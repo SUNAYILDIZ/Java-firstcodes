@@ -1,0 +1,37 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+
+/**
+ *
+ * @author suna1
+ */
+public class Driver {
+    public static void main(String[]  args){
+        byte b; //1 Byte
+        b=10;
+        System.out.println(b);
+        short s=20;   //  2 Byte
+        System.out.println(s);
+        int i=30;   // 4 Byte
+        System.out.println(i);
+        long l=40;  // 8 Byte
+        System.out.println(l);
+        
+        float pi = 3.14f; // 4 Byte
+        System.out.println(pi);
+        double d=23.32232323;
+        System.out.println(d);
+        char c = 'a';
+        System.out.println(c);
+        
+        boolean bool = true;
+        System.out.println(bool);
+        int $abc=10;
+        int yas=34;
+        System.out.println(yas);
+    
+    
+    }  
+}
